@@ -1,0 +1,4 @@
+:HL["/tradednevnik-site/_next/static/chunks/11q6--7r8udyh.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"Prh2x-SVCo_9G4M3L23jJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
