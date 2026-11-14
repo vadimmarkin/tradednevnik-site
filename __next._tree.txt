@@ -1,0 +1,3 @@
+:HL["/tradednevnik-site/_next/static/chunks/1-wji151-9ddj.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"WkOLUJJBFd73-7BIWRNma","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
